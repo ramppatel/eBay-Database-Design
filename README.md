@@ -69,7 +69,7 @@ We plan to further develop this system with:
 ## 📫 Connect with Me
 
 - GitHub: [@ramppatel](https://github.com/ramppatel)
-- Email: rampatel@example.com
+- Email: ram8881patel@gmail.com
 
 ---
 
